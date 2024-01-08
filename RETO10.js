@@ -35,7 +35,7 @@ function createChristmasTree2(ornaments, height) {
       ornamentIndex++
      
   }
-  newRow=newRom.trim()
+  newRow=newRow.trim()
   tree+=spaces + newRow  + "\n"   
   
 }
